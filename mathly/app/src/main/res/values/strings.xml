@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">Mathly</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MATHLY</string>
+    <string name="nav_header_subtitle">Coding is fun with Maths</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="gcd">GCD</string>
+    <string name="gallery">Factors</string>
+    <string name="slideshow">Prime</string>
+    <string name="enter_number1">Enter first number</string>
+    <string name="enter_number2">Enter last number</string>
+    <string name="enter">ENTER</string>
+    <string name="GCD">GCD</string>
+    <string name="enter_number">Enter Number</string>
+    <string name="palindrome">Palindrome</string>
+    <string name="prime">Prime</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_exponent_2">Enter exponent</string>
+    <string name="enter_number_3">Enter Number for mod</string>
+    <string name="modularexpo">ModularExpo</string>
+    <string name="enter_modulo">Enter modulo</string>
+    <string name="modularmultinver">Modularmultinver</string>
+    <string name="calculator">Calculator</string>
+    <string name="title_activity_history">History</string>
+    <string name="About">About</string>
+    <string name="about">
+        \n
+        This app is a fast service to all the coders out there. It identifies properties of a number ,although constricting itself to the scope of the algorithm and the system.
+        \n
+        \n
+        Company Name : Mathastic
+        \n
+        \n
+        Works on all android versions greater than API level 16
+        \n
+        \n
+        More functoning code will be added soon for more ease in programming
+    </string>
+    <string name="enter_n_in_ncr">Enter n in nCr</string>
+    <string name="enter_in_r_ncr">Enter r in nCr</string>
+    <string name="bigfactorial">BigFactorial</string>
+    <string name="ncr">nCr</string>
+    <string name="enter_numbers">Enter numbers</string>
+    <string name="hello">
+Please allow storage permission for the functioning of app \n
+Go to Settings -> Installed apps -> Permissions -> Storage -> Mathly \n \n
+History \n
+	history accommodates the processes one has worked out since the last deletion of the same. Yes there is a history deletion option. \n \n
+GCD \n
+	It calculates the greatest common divisor of two numbers, however being in the scope of the algorithm and the device. \n \n
+Factors \n
+	It can work out factors and prime factorisation of a number. \n \n
+Prime \n
+	Gives you the Prime numbers between two numbers, provided former is less than latter. \n \n
+ModularExpo \n
+    It can calculate the remainder of a number raised to the power of another number when divided by another number, however being in the scope of algorithm and the device. \n \n
+Modularmultinver \n
+	Modularmultinver(as we have named it) or a modular multiplicative inverse of an integer a is an integer x such that the product ax is congruent to 1 with respect to the modulus m. \n \n
+BigFactorial \n
+	Calculates the factorial of a number. \n \n
+nCr \n
+	Calculates combinatorial where r is less than equal to n. \n \n
+CheckFibonacci \n
+	Checks whether a number is in the fibonacci series. \n \n
+Calculator \n
+	Takes you to the calculator of the device.
+    </string>
+    <string name="checkfibonacci">CheckFibonacci</string>
+</resources>
